@@ -1,0 +1,23 @@
+{
+  "name": "dynamic_viewport_units",
+  "version": "1.0.0",
+  "description": "dynamic viewport units presentation ",
+  "main": "index.js",
+  "repository": "git@github.com:paul-blackwell/dynamic_viewport_units_presentation.git",
+  "author": "paul-blackwell <paul@paulblackwell.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "dependencies": {
+    "css-loader": "^6.8.1",
+    "mini-css-extract-plugin": "^2.7.6",
+    "node-sass": "^9.0.0",
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

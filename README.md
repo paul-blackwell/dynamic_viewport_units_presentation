@@ -10,3 +10,6 @@ It is used to cover the following:
 - Large viewport units
 - Small viewport units
 - Dynamic viewport units
+
+
+[Webpack config](https://devsenv.com/tutorials/webpack,-scss-and-html-minimal-and-easy-setup-for-every-developer)
