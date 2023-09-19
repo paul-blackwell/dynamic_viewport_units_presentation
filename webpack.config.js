@@ -23,6 +23,22 @@ module.exports = {
                     "sass-loader",
                 ],
             },
+            {
+                test: /\.(jpe?g|png|gif|svg)$/i,
+                type: "asset/resource",
+                entry: './src/assets',
+                generator: {
+                    filename: "[name][ext]",
+                    publicPath: "./src/assets/",
+                    outputPath: "/dist/assets/",
+                },
+            },
+            {
+                test: /\.html$/,
+                use: [
+                    'html-loader'
+                ]
+            },
         ],
     },
     plugins: [
