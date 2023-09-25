@@ -13,3 +13,6 @@ It is used to cover the following:
 
 
 [Webpack config](https://devsenv.com/tutorials/webpack,-scss-and-html-minimal-and-easy-setup-for-every-developer)
+
+
+https://www.learnhowtoprogram.com/intermediate-javascript/test-driven-development-and-environments-with-javascript/managing-images-with-webpack
